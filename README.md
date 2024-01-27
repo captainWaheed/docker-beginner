@@ -37,8 +37,6 @@ This repository covers a variety of web development projects. Each project is or
 5. **Hello Docker Project**:
    - A simple "Hello Docker" project to get started with Docker. It includes a basic web server serving a "Hello, Docker!" message.
 
-...
-
 ## How to Use
 
 1. Clone the repository to your local machine:
