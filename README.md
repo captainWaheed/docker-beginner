@@ -67,4 +67,8 @@ If you have any questions or feedback, feel free to reach out to me at [theabdul
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Credits
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/GFgJkfScVNU?si=ic3NcST7jldpfr3_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ---
